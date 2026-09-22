@@ -1,4 +1,6 @@
 # European Football Analysis Dashboard
+![Dashboard Screenshot](powerbi_footballanalysis.png)
+
 
 
 ## Acknowledgements
